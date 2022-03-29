@@ -1,0 +1,116 @@
+{
+  "id": "appchakra",
+  "label": "appchakra",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "config": {
+          "label": "Uid",
+          "placeholder": ""
+        },
+        "type": "UID"
+      },
+      "title": {
+        "config": {
+          "label": "Title",
+          "placeholder": ""
+        },
+        "type": "Text"
+      },
+      "subtitle": {
+        "config": {
+          "label": "Subtitle",
+          "placeholder": ""
+        },
+        "type": "Text"
+      },
+      "slider": {
+        "config": {
+          "label": "Slider",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "image": {
+        "config": {
+          "label": "Image",
+          "constraint": {},
+          "thumbnails": []
+        },
+        "type": "Image"
+      },
+      "description": {
+        "config": {
+          "label": "Description",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+        },
+        "type": "StructuredText"
+      },
+      "contry": {
+        "config": {
+          "label": "Contry",
+          "placeholder": ""
+        },
+        "type": "Number"
+      },
+      "language": {
+        "config": {
+          "label": "Language",
+          "placeholder": ""
+        },
+        "type": "Number"
+      },
+      "city": {
+        "config": {
+          "label": "City",
+          "placeholder": ""
+        },
+        "type": "Number"
+      },
+      "content": {
+        "config": {
+          "label": "Content",
+          "placeholder": "",
+          "fields": {
+            "title": {
+              "config": {
+                "label": "Title",
+                "placeholder": ""
+              },
+              "type": "Text"
+            },
+            "subtitle": {
+              "config": {
+                "label": "Subtitle",
+                "placeholder": ""
+              },
+              "type": "Text"
+            },
+            "image": {
+              "config": {
+                "label": "Image",
+                "constraint": {},
+                "thumbnails": []
+              },
+              "type": "Image"
+            },
+            "flag": {
+              "config": {
+                "label": "Flag",
+                "constraint": {},
+                "thumbnails": []
+              },
+              "type": "Image"
+            }
+          }
+        },
+        "type": "Group"
+      }
+    }
+  }
+}

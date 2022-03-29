@@ -1,0 +1,105 @@
+{
+  "id": "2d3566ba-f7a3-4eaa-b956-d43226cf37ac",
+  "uid": "quis-ipsam-saepe",
+  "type": "appchakra",
+  "data": {
+    "title": "transition B2C ROI",
+    "subtitle": "redefine next-generation blockchains",
+    "slider": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
+    },
+    "image": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1571126770897-2d612d1f7b89?w=900&h=500&fit=crop"
+    },
+    "description": [
+      {
+        "type": "paragraph",
+        "text": "Reprehenderit commodo sint nostrud sint elit minim velit nostrud velit anim sint proident.",
+        "spans": []
+      }
+    ],
+    "contry": 7384,
+    "language": 889,
+    "city": 6847,
+    "content": [
+      {
+        "title": "evolve seamless web-readiness",
+        "subtitle": "brand end-to-end bandwidth",
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=900&h=500&fit=crop"
+        },
+        "flag": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": "evolve impactful e-tailers",
+        "subtitle": "strategize synergistic paradigms",
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e?w=900&h=500&fit=crop"
+        },
+        "flag": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=900&h=500&fit=crop"
+        }
+      },
+      {
+        "title": "productize sexy relationships",
+        "subtitle": "extend enterprise applications",
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=900&h=500&fit=crop"
+        },
+        "flag": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1494173853739-c21f58b16055?w=900&h=500&fit=crop"
+        }
+      }
+    ]
+  }
+}
